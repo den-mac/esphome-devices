@@ -96,3 +96,7 @@ binary_sensor:
 ## Enclosure
 
 A 3D-printable case design for this board is available [here](https://github.com/clydebarrow/3dmodels/tree/main/ESP32%20Relay%20x1).
+
+## ESP Pin identifiers
+
+![x1_relay_back](https://github.com/user-attachments/assets/82c8903a-31c4-4ce0-8380-16da06104efc)
